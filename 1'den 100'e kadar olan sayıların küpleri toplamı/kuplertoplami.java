@@ -15,7 +15,7 @@ for (int i=1;i<=101;i++)
 		
 toplam = toplam+(i*i*i);
 
-// burada toplamı tekrar int le tanımladığım için hata aldım!
+
 
 }
 		
