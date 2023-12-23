@@ -15,23 +15,24 @@ int sifir=0;
 
 for (int i=0;i<5;i++) {		
  
-	System.out.print("Bir sayı giriniz: ");
+	        System.out.print("Bir sayı giriniz: ");
 
 int sayi=sc.nextInt();
-if (sayi>0) {
+              
+	if (sayi>0) {
 	
-pozitif=pozitif+1;
+         pozitif=pozitif+1;
 	
 }
 
-else if (sayi<0) {
+        else if (sayi<0) {
 	
 	
 	negatif=negatif+1;
 	
 }
 
-else {
+        else {
 	
 	sifir=sifir+1;
 }
