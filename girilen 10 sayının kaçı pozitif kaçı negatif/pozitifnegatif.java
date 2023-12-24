@@ -2,7 +2,7 @@ package ders1;
 
 import java.util.Scanner;
 
-//girilen 10 sayının kaçı pozitif kaçı negatif?
+//klavyeden girilen 10 sayının kaçı pozitif kaçı negatif?
 
 public class pozitifnegatif {
 
