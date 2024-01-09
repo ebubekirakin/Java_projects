@@ -35,8 +35,10 @@ public class gunler {
 			System.out.println("Pazar");
 			break;
 		   default:
-			   System.out.println("1 ile 7 arasında bir sayı girin!");
-		
+		        
+		        System.out.println("1 ile 7 arasında bir sayı girin!");
+
+				
 		}
 	}
 
