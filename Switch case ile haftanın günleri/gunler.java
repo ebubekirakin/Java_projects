@@ -38,6 +38,7 @@ public class gunler {
 		        
 		        System.out.println("1 ile 7 arasında bir sayı girin!");
 
+
 				
 		}
 	}
