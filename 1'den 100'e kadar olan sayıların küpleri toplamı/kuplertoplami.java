@@ -7,7 +7,6 @@ public class kuplertoplami {
 		//1 den 100 e kadar olan sayıların küplerinin toplamı
 
 
-		
 		int toplam = 0;		
 
 		
