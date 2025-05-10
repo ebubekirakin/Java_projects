@@ -29,7 +29,6 @@ if(ortalama>=60) {
 	
 	System.out.println("Notunuz: "+ortalama+"\n"+"Durumu: Geçti");
 	
-	
 }	
 
 else {
