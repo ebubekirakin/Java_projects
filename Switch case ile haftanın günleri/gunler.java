@@ -2,6 +2,7 @@ package ders1;
 
 import java.util.Scanner;
 
+
 public class gunler {
 
 	public static void main(String[] args) {
